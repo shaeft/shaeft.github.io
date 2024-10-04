@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shaeft.github.io/Rpw/sitemap.Rpw.gz
